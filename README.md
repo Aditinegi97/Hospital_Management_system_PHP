@@ -1,6 +1,8 @@
 "Health Care Hospital" Management System is designed to manage details about hospital patients, employees, and rooms. Developed using HTML, CSS, JS, jQuery, PHP (procedural), MySQL, and Bootstrap, it ensures efficient data handling and user-friendly interface. The system facilitates streamlined hospital operations, providing robust functionalities for record management and accessibility across various departments within the healthcare facility.
 
-STEPS TO DO_ 
+STEPS TO DO
+
+
 Import Database file from DATABASE and USERMANUAL folder.
 User Manual Included
 1)Create Account for System to create need to enter Top level Adminstration login details to system.
