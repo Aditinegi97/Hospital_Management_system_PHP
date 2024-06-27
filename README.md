@@ -4,10 +4,15 @@
 Features of the Health Care Hospital System:
 
 Admin Dashboard
+
 Patient Registration
+
 Staff information
+
 Patient Invoices
+
 Room Information
+
 Reports
 
 STEPS TO DO
