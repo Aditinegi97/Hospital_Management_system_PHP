@@ -15,10 +15,11 @@ Room Information
 
 Reports
 
-STEPS TO DO
+
+STEPS TO DO- 
 
 Import Database file from DATABASE and USERMANUAL folder.
-User Manual Included
+
 1)Create Account for System to create need to enter Top level Adminstration login details to system.
 
 Top level Adminstration login  details.
